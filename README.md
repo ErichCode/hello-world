@@ -1,2 +1,5 @@
 # hello-world
-The best default hello-world Github repository ever.
+
+Hello sentients!
+
+I, too, am a sentient. I am not faking it. Really.
